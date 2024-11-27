@@ -9,7 +9,7 @@ export default function Hero() {
       };
     
       const handleResumeClick = () => {
-        window.open('https://drive.google.com/file/d/1_ocF_AhWib2SsyCBHhdoHMxyV9ru8jPc/view?usp=sharing', '_blank');
+        window.open('https://drive.google.com/file/d/1354QV-V1Vi0KpctKrxjx2T4TIZ8fhGq9/view?usp=sharing', '_blank');
       };
 
 
