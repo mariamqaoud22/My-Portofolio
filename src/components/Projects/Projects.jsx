@@ -9,8 +9,8 @@ const projects = [
   },
   {
     id: 2,
-    name: "",
-    technologies: "",
+    name: "Pomodoro App",
+    technologies: "React, Js , Css, Html",
     image:image0E ,
     github: "#",
   },
